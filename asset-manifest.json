@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nivas30/react-deploy.git/static/js/main.51757ae8.js",
-    "index.html": "/nivas30/react-deploy.git/index.html",
-    "main.51757ae8.js.map": "/nivas30/react-deploy.git/static/js/main.51757ae8.js.map"
+    "main.js": "/nivas30/react.git/static/js/main.b6e95e06.js",
+    "index.html": "/nivas30/react.git/index.html",
+    "main.b6e95e06.js.map": "/nivas30/react.git/static/js/main.b6e95e06.js.map"
   },
   "entrypoints": [
-    "static/js/main.51757ae8.js"
+    "static/js/main.b6e95e06.js"
   ]
 }
